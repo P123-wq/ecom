@@ -1,0 +1,14 @@
+fileignoreconfig:
+- filename: src/.tailsmanrc
+  checksum: 7f31d8f5d61c018a762888052cb8433200a23bc226875c0bcddf76822925b7f1
+- filename: package-lock.json
+  checksum: cc7ae885f01d5cdab47b800e5823964988b8ff1c97503ded96b718b8fa8058a9
+- filename: src/.tailsmanrc
+  checksum: c7a57c7b90e90194a1a66423163df5a2164664588afeabd6334636b9cf9f5d2e
+- filename: package-lock.json
+  checksum: cc7ae885f01d5cdab47b800e5823964988b8ff1c97503ded96b718b8fa8058a9
+- filename: src/.tailsmanrc
+  checksum: 6c34e45628e9a0c701ac60c269b1464c9be11cd92dcb3fcf67ba68497d65219f
+- filename: package-lock.json
+  checksum: cc7ae885f01d5cdab47b800e5823964988b8ff1c97503ded96b718b8fa8058a9
+version: ""
